@@ -1,0 +1,16 @@
+.container{
+    height: 793px;
+    width: 560px;
+    border: 1px solid black;
+    margin: auto;
+}
+body{
+    font-size: 18px;
+}
+header{
+    text-align: center;
+    font-size: 25px;
+}
+img{
+    width: 65%;
+}
